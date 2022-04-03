@@ -1,0 +1,16 @@
+{
+    "name": "celierussier/composer-bis",
+    "autoload": {
+        "psr-4": {
+            "Celierussier\\ComposerBis\\": "src/",
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Celie Russier",
+            "email": "celie.russier@gmail.com"
+        }
+    ],
+    "require": {}
+}
